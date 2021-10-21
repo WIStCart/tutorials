@@ -1,5 +1,5 @@
 # Tutorials
-A collection of tutorials from the Wisconsin State Cartographer's Office.
+A collection of tutorials from the Wisconsin State Cartographer's Office. Each tutorial is a separate branch in this repository. Read descriptions of each tutorial below, click on an image to go to branch.
 
 ## Making a Web Map with Leaflet in One Minute
 [![Preview](https://github.com/WIStCart/tutorials/raw/leaflet-one-minute-map/meta/preview.png)](https://github.com/WIStCart/tutorials/tree/leaflet-one-minute-map)
