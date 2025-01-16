@@ -1,11 +1,11 @@
 # Tutorials
-A collection of tutorials from the Wisconsin State Cartographer's Office. Each tutorial is a separate branch in this repository. Read descriptions of each tutorial below, click on an image to go to branch.
+A collection of tutorials from the Wisconsin State Cartographer's Office. Each tutorial is a separate branch in this repository. Read descriptions of each tutorial below, click on a title or image to go to the branch.
 
 ## [Using ArcGIS Pro and Python to Download Wisconsin Historic Aerial Imagery](https://github.com/WIStCart/tutorials/tree/historic-aerial-imagery)
 
-<img align="right" width="200" height="200" src="https://github.com/WIStCart/tutorials/raw/historic-aerial-imagery/meta/airphoto.jpg" style="margin-left: 10px;"/>The Arthur H. Robinson Map Library (RML) at the University of Wisconsin-Madison maintains an extensive digital archive of historic Wisconsin aerial photography dating from 1936 to the present.  This tutorial is aimed at GIS users who would like to download aerial imagery from the RML archive.
+[<img align="right" width="240" height="235" src="https://github.com/WIStCart/tutorials/raw/historic-aerial-imagery/meta/airphoto.jpg" style="margin-left: 10px;"/>](https://github.com/WIStCart/tutorials/tree/historic-aerial-imagery) The Arthur H. Robinson Map Library (RML) at the University of Wisconsin-Madison maintains an extensive digital archive of historic Wisconsin aerial photography dating from 1936 to the present.  This is in addition to a physical archive of nearly 260,00 print photographs.
 
-The tutorial describes a scripted approach that uses a combination of ArcGIS Pro, a feature service stored in ArcGIS Online, and Python. This tutorial assumes a working knowledge of ArcGIS Pro 3.x and Python 3.x.
+This tutorial is aimed at intermediate GIS users who would like to download aerial imagery from the RML archive using a scripted approach.  Specifically,  a combination of ArcGIS Pro, a feature service stored in ArcGIS Online, and Python. The tutorial assumes a working knowledge of ArcGIS Pro 3.x and Python 3.x.
 
 
 
