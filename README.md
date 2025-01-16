@@ -1,2 +1,4 @@
 ## Using ArcGIS Pro and Python to Download Wisconsin Historic Aerial Imagery
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This tutorial is aimed at intermediate GIS users who would like to download aerial imagery from the RML archive using a scripted  approach.  Specifically,  a combination of ArcGIS Pro, a feature service stored in ArcGIS Online, and Python. The tutorial assumes a working  knowledge of ArcGIS Pro 3.x and Python 3.x.
+
+To view the tutorial, [check out this Google Docs file](https://docs.google.com/document/d/1cNqa6q0hVlUs8hs4nbY191wWW60NW6n-ANjXI9fkutQ/edit?usp=sharing).   You can also grab a copies of the [Python script](https://raw.githubusercontent.com/WIStCart/tutorials/refs/heads/historic-aerial-imagery/download.py) and [sample CSV file](https://raw.githubusercontent.com/WIStCart/tutorials/refs/heads/historic-aerial-imagery/sample.csv) referenced in the tutorial.
