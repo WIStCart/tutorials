@@ -3,7 +3,7 @@ A collection of tutorials from the Wisconsin State Cartographer's Office. Each t
 
 ## [Download Imagery and Lidar from the WisconsinView Data Archive with Python](https://github.com/WIStCart/tutorials/tree/WisconsinView)
 
-[](https://github.com/WIStCart/tutorials/tree/historic-aerial-imagery)The WisconsinView Data Archive (WDA) is a repository of Wisconsin aerial imagery and lidar-derived elevation data products.  The primary search interface for the WDA is the [GeoData@Wisconsin](https://geodata.wisc.edu) geportal.  Some users may also wish to use a desktop client such as Cyberduck or FileZilla Pro for ["bulk downloads" of data](https://geodata.wisc.edu/pages/lidar-imagery).  
+The WisconsinView Data Archive (WDA) is a repository of Wisconsin aerial imagery and lidar-derived elevation data products.  The primary search interface for the WDA is the [GeoData@Wisconsin](https://geodata.wisc.edu) geoportal.  Some users may also wish to use a desktop client such as Cyberduck or FileZilla Pro for ["bulk downloads" of data](https://geodata.wisc.edu/pages/lidar-imagery).  
 
 In situations where it is not possible or desirable to use one of those access methods, it is also possible to use a Python script to grab data from the archive.  This tutorial is for more advanced users who are comfortable with Python 3.x.
 
