@@ -1,6 +1,14 @@
 # Tutorials
 A collection of tutorials from the Wisconsin State Cartographer's Office. Each tutorial is a separate branch in this repository. Read descriptions of each tutorial below, click on a title or image to go to the branch.
 
+## [Download Imagery and Lidar from the WisconsinView Data Archive with Python](https://github.com/WIStCart/tutorials/tree/WisconsinView)
+
+[](https://github.com/WIStCart/tutorials/tree/historic-aerial-imagery)The WisconsinView Data Archive (WDA) is a repository of Wisconsin aerial imagery and lidar-derived elevation data products.  The primary search interface for the WDA is the [GeoData@Wisconsin](https://geodata.wisc.edu) geportal.  Some users may also wish to use a desktop client such as Cyberduck or FileZilla Pro for ["bulk downloads" of data](https://geodata.wisc.edu/pages/lidar-imagery).  
+
+In situations where it is not possible or desirable to use one of those access methods, it is also possible to use a Python script to grab data from the archive.  This tutorial is for more advanced users who are comfortable with Python 3.x.
+
+
+
 ## [Using ArcGIS Pro and Python to Download Wisconsin Historic Aerial Imagery](https://github.com/WIStCart/tutorials/tree/historic-aerial-imagery)
 
 [<img align="right" width="240" height="235" src="https://github.com/WIStCart/tutorials/raw/historic-aerial-imagery/meta/airphoto.jpg" style="margin-left: 10px;"/>](https://github.com/WIStCart/tutorials/tree/historic-aerial-imagery)The Arthur H. Robinson Map Library (RML) at the University of Wisconsin-Madison maintains an extensive digital archive of historic Wisconsin aerial photography dating from 1936 to the present.  This is in addition to a physical archive of nearly 260,00 print photographs.
